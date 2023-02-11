@@ -6,3 +6,6 @@ We wil use pre-trained DistilBert model and train it further.
 - The goal of *extractive* QA is to identify the portion of the text that contains the answer to a question.
 - Transformer models are often trained by tokenizers that split words into subwords.
   - Before processing, it is important that you align the start and end indices with the tokens associated with the target answer word.
+
+
+Transformer models, such as ChatGPT and GPT-3, have revolutionized the field of NLP by providing contextual representations of words in the text, which allows for improved understanding of the text's meaning.
